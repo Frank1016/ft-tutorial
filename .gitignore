@@ -9,6 +9,7 @@
 #cache
 .cache
 .parcel-cache
+.sdf
 
 #contracts
 target
